@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "603678061450",
+    "firebase_url": "https://pridel-815ee-default-rtdb.firebaseio.com",
+    "project_id": "pridel-815ee",
+    "storage_bucket": "pridel-815ee.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603678061450:android:cef3f122867913454bce73",
+        "android_client_info": {
+          "package_name": "com.pridelcontinental.delivery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp-yPmKpKqGiKqB6Y8tS9QFpS6WiKvLB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603678061450:android:ae07c7363dba7eff4bce73",
+        "android_client_info": {
+          "package_name": "com.pridelcontinental.delivery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp-yPmKpKqGiKqB6Y8tS9QFpS6WiKvLB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603678061450:android:45fb0393508b44244bce73",
+        "android_client_info": {
+          "package_name": "com.pridelcontinental.store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp-yPmKpKqGiKqB6Y8tS9QFpS6WiKvLB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
