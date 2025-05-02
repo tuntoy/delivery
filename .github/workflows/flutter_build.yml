@@ -53,7 +53,7 @@ jobs:
           storePassword=${{ secrets.KEYSTORE_PASSWORD }}
           keyPassword=${{ secrets.KEY_PASSWORD }}
           keyAlias=${{ secrets.KEY_ALIAS }}
-          storeFile=upload-keystore.jks
+          storeFile=delivery-file.jks
           EOF
 
       - name: Install dependencies
